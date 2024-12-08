@@ -1,1 +1,1 @@
-# photo_webiste_app_with_docker
+This is a website application where users can download stock photos. It is prepared with HTML, CSS and Javascript. Firebase Storage is used as storage and EmailJS is used for email transactions. In order for the application to work, npm install firebase must be added to the project. The firebase config field must be filled. The EmailJS service id, template id, and public key fields must be filled. There is a Docker file. You can create images and containers with the project.
